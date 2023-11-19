@@ -5,4 +5,4 @@ def substract(a, b):
 
 def test_add():
     assert substract(2, 2) == 0
-    assert substract(1, -1) == 20s
+    assert substract(1, -1) == 20
